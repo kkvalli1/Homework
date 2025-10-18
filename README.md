@@ -8,7 +8,6 @@ This is for my homework
 
  Introduction to Python and coding I like to begin [here] (https://www.w3schools.com/python/)
 
- I like this picture
- ![Data Analytics and Python](https://x.com/Python_Dv/status/1808337096731775410))
+ ![Data Analytics and Python](https://x.com/Python_Dv/status/1808337096731775410)
  
- I like this image sine its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
+ I like this image since its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
