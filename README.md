@@ -10,4 +10,5 @@ This is for my homework
 
  I like this picture
  ![Data Analytics and Python](/image-1.png)
+ 
  I like this image sine its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
