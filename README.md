@@ -8,6 +8,6 @@ This is for my homework
 
  Introduction to Python and coding I like to begin [here] (https://www.w3schools.com/python/)
 
- [![Data Analytics and Python](imge-1.png "sample")]
+ ![Data Analytics and Python](imge-1.png "sample")
  
  I like this image since its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
