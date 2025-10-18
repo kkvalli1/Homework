@@ -9,5 +9,5 @@ This is for my homework
  Introduction to Python and coding I like to begin [here] (https://www.w3schools.com/python/)
 
  I like this picture
- ![alt text](image-1.png)
- i like this image sine its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
+ ![Data Analytics and Python](/image-1.png)
+ I like this image sine its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
