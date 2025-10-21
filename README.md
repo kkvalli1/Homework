@@ -8,6 +8,6 @@ This is for my homework
 
  Introduction to Python and coding I like to begin [here] (https://www.w3schools.com/python/)
 
- ![Data Analytics and Python](image-1.png)
+ ![Data Analytics and Python](https://media.istockphoto.com/id/1311598658/photo/businessman-trading-online-stock-market-on-teblet-screen-digital-investment-concept.jpg?s=1024x1024&w=is&k=20&c=JZprgGDQ8xqa6iu0fyKJfKOlAvae0w9U-AdHeCT2kg4=)
  
  I like this image since its amazing to see how Data analytics revolves around many differnt domains and how we can leverage the use of it with Python.
